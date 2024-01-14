@@ -1,4 +1,4 @@
-#FlashCard Desktop Application
+# FlashCard Desktop Application
 
 This project was developed suing the Netbeans IDE and GUI Builder. This application is a Flashcard Studying and Time Table system which aims to save the users time, improve studying efficiency and give a good overview of their progress. The key features include: 
 1.** Interactive Flashcard memorisation system:**  allow the user to learn Flashcards based upon difficulty personal to the user. 
@@ -18,14 +18,14 @@ https://drive.google.com/drive/folders/15Wt8G7bTOY8mC_c524eeAvBSzNDXGnXM
 More in Depth Code Documentation: 
 https://docs.google.com/document/d/1BCGvXM9MASZXXt5wYTFmTmL-qLe7HfQ-cXHZWRHG1xQ/edit
 
-##Download Instructions: 
+## Download Instructions: 
 Note: This is only supported on Mac intel. 
 1. Ensure Java 8 (or later) and Netbeans 12.3 are downloaded and installed onto your Mac.
-2. Open Terminal and Navigate to the desired folder
+2. Open Terminal and Navigate to the desired folder.
    `cd Downloads`
 4. Create a clone of this Repository:
 ```
 git clone https://github.com/Big-Database/Flashcard-Project.git
 ```
-5. Open Netbeans and go to File > Open Projects > Flashcard-Project
-6. 
+5. Open Netbeans and go to File > Open Projects > Flashcard-Project.
+6. Navigate to 'Window_1.java' and run the file. 
