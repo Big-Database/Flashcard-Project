@@ -20,7 +20,7 @@ https://docs.google.com/document/d/1BCGvXM9MASZXXt5wYTFmTmL-qLe7HfQ-cXHZWRHG1xQ/
 
 ## Download Instructions: 
 Note: This is only supported on Mac intel. 
-1. Ensure Java 8 (or later) and Netbeans 12.3 are downloaded and installed onto your Mac.
+1. Ensure Java 8 and Netbeans 11.0 are downloaded and installed onto your Mac.
 2. Open Terminal and Navigate to the desired folder.
    `cd Downloads`
 4. Create a clone of this Repository:
